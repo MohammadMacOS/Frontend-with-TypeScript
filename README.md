@@ -1,3 +1,12 @@
+1. create-react-app ``npx create-react-app my-app --template typescript``
+2. rensa
+3. struktur
+4. styling
+5. vyer & navigation
+6. Navigation istället för useHistory 
+7. useState
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
